@@ -93,13 +93,7 @@ h3 + .committee-list {
     {% endif %}
 
 ### {{ heading }}
-{% comment %} ED&I contact line (preferred loop) {% endcomment %}
-{% if r == "ED&I" or r == "Diversity and Inclusion" %}
-<p class="committee-contact">
-  Contact: <a href="mailto:eacl2027deichairs@gmail.com">eacl2027deichairs@gmail.com</a>
-</p>
-<div class="heading-divider"></div>
-{% endif %}
+
 <div class="committee-list">
   {% if r == "Local Organization" %}
     {% comment %} 
@@ -198,13 +192,6 @@ h3 + .committee-list {
 ### {{ heading }}
 
 <div class="heading-divider"></div>
-
-{% comment %} ED&I contact line (remaining-groups loop) {% endcomment %}
-{% if g.name == "ED&I" or g.name == "Diversity and Inclusion" %}
-<p class="committee-contact">
-  Contact: <a href="mailto:eacl2027deichairs@gmail.com">eacl2027deichairs@gmail.com</a>
-</p>
-{% endif %}
 
 <div class="committee-list">
   {%- assign _annot = "" -%}
