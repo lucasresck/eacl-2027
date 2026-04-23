@@ -22,7 +22,7 @@ committee:
         url: /committees/contact-directory/
 
 attending:
-  - title: Information For
+  - title: Participant Information
     children:
       - title: Venue
         url: /participants/venue/
