@@ -39,11 +39,19 @@ toc_label: "On this page"
 
 <!-- <h1>Athens, Greece: Venue & Accommodation</h1> -->
 
-*The exact conference venue is currently being finalized and will be announced soon.*
+## Conference Venue
 
-We are excited to host EACL 2027 in the historic and vibrant city of Athens. Our local organizers are actively working to secure an accessible and engaging environment for our community to gather and share ideas.
+**Megaron Athens International Conference Centre (MAICC)**
 
-Information on the conference location, nearby accommodation options, and general travel logistics will be provided on this page in the coming months. We look forward to welcoming you to Greece!
+![Megaron Athens International Conference Centre (MAICC)](/assets/images/maicc.jpg)
+
+<div class="image-caption">
+  <em>Image by <a href="https://commons.wikimedia.org/wiki/User:StrangeTraveler">StrangeTraveler</a> on Wikimedia Commons, licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</em>
+</div>
+
+Discover the [Megaron Athens International Conference Centre (MAICC)](https://www.megaron.gr/en/international-conference-centre/)---one of the finest and most technologically advanced conference venues in Europe. Securely nestled in the vibrant centre of Athens, Greece, this modern convention center blends cutting-edge technological infrastructure with elegant architecture and six acres of lush, landscaped gardens.
+
+Spanning an impressive **143,000 m²**, MAICC offers highly versatile spaces for the computational linguistics community, including **12,000 m²** of exhibition areas and 18 meeting spaces capable of accommodating up to **6,000 delegates**. Located on a direct metro line just 35 minutes from Athens International Airport, MAICC ensures unparalleled convenience, comfort, and an unforgettable experience for all EACL 2027 attendees.
 
 <style>
   /* 1. Target the List Items (The rows) */
@@ -68,5 +76,15 @@ Information on the conference location, nearby accommodation options, and genera
   .toc__menu li a {
       padding-top: 0px !important;
       padding-bottom: 0px !important;
+  }
+
+  /* 4. Make image legend very small */
+  .image-caption {
+      font-size: 60% !important;
+      line-height: 1.2 !important;
+      color: #666 !important;
+      text-align: center !important;
+      margin-top: -1rem !important;
+      margin-bottom: 2rem !important;
   }
 </style>
