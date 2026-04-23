@@ -4,7 +4,7 @@ layout: single
 excerpt: "EACL 2027 organizing committee."
 permalink: /committees/organization/
 sidebar:
-  nav: committees
+  nav: committee
 ---
 <style>
 .committee-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:1.25rem;margin-bottom:2rem;}
