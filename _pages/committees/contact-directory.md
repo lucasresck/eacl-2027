@@ -3,11 +3,10 @@ title: "Contact Directory"
 layout: single
 permalink: /committees/contact-directory/
 sidebar:
-  nav: committees
+  nav: committee
 toc: true
 toc_sticky: true
 toc_label: "Contact Categories"
-published: false
 ---
 <style>
 /* Force more space in Participant Information sidebar */
@@ -35,7 +34,7 @@ published: false
   margin-bottom: 0.55rem !important;
 }
 </style>
-This page provides a comprehensive list of contact emails for all EACL 2026 tracks, committees, and services. Please use the appropriate email for your inquiry to ensure a timely response.
+This page provides a comprehensive list of contact emails for all EACL 2027 tracks, committees, and services. Please use the appropriate email for your inquiry to ensure a timely response. If you are unsure which email to use, the general conference email ([eacl2027.contact@gmail.com](mailto:eacl2027.contact@gmail.com)) will forward your inquiry to the appropriate committee.
 
 ---
 
@@ -43,9 +42,11 @@ This page provides a comprehensive list of contact emails for all EACL 2026 trac
 
 | Contact | Email | Purpose |
 |---------|-------|---------|
-| **General Conference** | [eacl2026.contact@gmail.com](mailto:eacl2026.contact@gmail.com) | All general questions |
-| **Program Chairs** | [eacl26-pcs@googlegroups.com](mailto:eacl26-pcs@googlegroups.com) | Paper commitment & program questions |
+| **General Conference** | [eacl2027.contact@gmail.com](mailto:eacl2027.contact@gmail.com) | All general questions |
+| **Program Chairs** | [eacl2027-pcs@googlegroups.com](mailto:eacl2027-pcs@googlegroups.com) | Paper commitment, program and post-review-related topics |
+{% comment %}
 | **ARR Editors** | [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org) | Paper submission review process |
+{% endcomment %}
 
 ---
 
@@ -53,11 +54,13 @@ This page provides a comprehensive list of contact emails for all EACL 2026 trac
 
 | Contact | Email/Form | Purpose |
 |---------|------------|---------|
+| **Visa Questions** | [iitcomms@iit.demokritos.gr](mailto:iitcomms@iit.demokritos.gr) | Visa-related questions |
+{% comment %}
 | **Visa Letters (Authors)** | [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSceu1uWn48EB-0-xg9i0VL1wNWbwVd43rk1uIsZfmsR8Khttg/viewform?usp=publish-editor) | Authors needing visa invitation letters |
 | **Visa Letters (Organizers)** | [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfWqVBZBJg4JubC1N15L6t5C2uGDHFMDgiFveOcskuecZzbqQ/viewform?usp=header) | Organizers needing visa invitation letters |
-| **Visa Questions (Chairs)** | [eacl.2026.visa.chairs@gmail.com](mailto:eacl.2026.visa.chairs@gmail.com) | Visa-related questions |
 | **Registration Portal** | [https://acl.swoogo.com/eacl2026](https://acl.swoogo.com/eacl2026) | Conference registration |
 | **General Questions** | [eacl2026.contact@gmail.com](mailto:eacl2026.contact@gmail.com) | Registration inquiries |
+{% endcomment %}
 
 ---
 
@@ -65,8 +68,11 @@ This page provides a comprehensive list of contact emails for all EACL 2026 trac
 
 | Contact | Email | Purpose |
 |---------|-------|---------|
-| **D&I Chairs** | [eacl2026deichairs@gmail.com](mailto:eacl2026deichairs@gmail.com) | D&I subsidy applications, general D&I inquiries |
+| **D&I Chairs** | [eacl2027.deichairs@gmail.com](mailto:eacl2027.deichairs@gmail.com) | D&I general inquiries |
+| **Student Volunteers** | TBD | Student volunteer inquiries |
+{% comment %}
 | **Student Volunteers** | [eacl2026.volunteers@gmail.com](mailto:eacl2026.volunteers@gmail.com) | Student volunteer applications |
+{% endcomment %}
 
 ---
 
@@ -74,13 +80,16 @@ This page provides a comprehensive list of contact emails for all EACL 2026 trac
 
 | Track/Role | Email | Purpose |
 |------------|-------|---------|
+| **Student Research Workshop (SRW)** | [eacl2027-srw@googlegroups.com](mailto:eacl2027-srw@googlegroups.com) | SRW questions |
+| **Demonstration Track** | TBD | Demo submissions |
+| **Industry Track** | TBD | Industry track questions |
+{% comment %}
 | **Main Conference Papers** | [eacl26-pcs@googlegroups.com](mailto:eacl26-pcs@googlegroups.com) | Main track program questions |
-| **Demonstrations** | [eacl-demo-chairs-2026@googlegroups.com](mailto:eacl-demo-chairs-2026@googlegroups.com) | Demo submissions |
-| **Industry Track** | [eacl2026-industry@googlegroups.com](mailto:eacl2026-industry@googlegroups.com) | Industry track questions |
-| **Student Research Workshop (SRW)** | [eaclsrw@gmail.com](mailto:eaclsrw@gmail.com) | SRW submissions, mentoring, inquiries |
 | **Workshops** | [eacl2026.contact@gmail.com](mailto:eacl2026.contact@gmail.com) | Workshop questions |
 | **Tutorials** | [eacl2026.contact@gmail.com](mailto:eacl2026.contact@gmail.com) | Tutorial questions |
+{% endcomment %}
 
+{% comment %}
 ---
 
 ## Sponsorship & Industry
@@ -97,20 +106,7 @@ This page provides a comprehensive list of contact emails for all EACL 2026 trac
 |-------|---------|---------|
 | **Sofitel Rabat** | [aziza.sadiki@sofitel.com](mailto:aziza.sadiki@sofitel.com) | Conference host hotel reservations |
 | **Hotel Oscar** | [Amwajvoyage@gmail.com](mailto:Amwajvoyage@gmail.com) | Partner hotel reservations |
-
----
-
-## How to Use This Directory
-
-1. **For general questions**: Start with [eacl2026.contact@gmail.com](mailto:eacl2026.contact@gmail.com)
-2. **For paper/program questions**: Use [eacl26-pcs@googlegroups.com](mailto:eacl26-pcs@googlegroups.com)
-3. **For visa invitation letters**: Use the Google Forms linked above
-4. **For track-specific questions**: Use the track-specific email in the table above
-5. **For D&I and volunteer inquiries**: Use [eacl2026deichairs@gmail.com](mailto:eacl2026deichairs@gmail.com) or [eacl2026.volunteers@gmail.com](mailto:eacl2026.volunteers@gmail.com)
-
----
-
-**Note**: If you are unsure which email to use, the general conference email ([eacl2026.contact@gmail.com](mailto:eacl2026.contact@gmail.com)) will forward your inquiry to the appropriate committee.
+{% endcomment %}
 
 <style>
   /* 1. Target the List Items (The rows) */

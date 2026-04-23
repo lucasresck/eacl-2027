@@ -20,6 +20,11 @@ Here are some of our exciting events and latest news.
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="contact-directory">Got any questions?</h2>
+  Check the <a href="{{ '/committees/contact-directory/' | relative_url }}">contact directory</a> for the right email address.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="system-track">We're live!</h2>
   The EACL 2027 website is now officially live. Please check back regularly for updates concerning the conference, important dates, calls for papers, venue specifics, and more.
 </div>

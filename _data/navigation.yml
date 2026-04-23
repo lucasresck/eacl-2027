@@ -18,9 +18,13 @@ committee:
     children:
       - title: "Organizing"
         url: /committees/organization/
+      - title: "Contact Directory"
+        url: /committees/contact-directory/
 
 attending:
   - title: Information For
     children:
       - title: Venue
         url: /participants/venue/
+      - title: "Contact Directory"
+        url: /committees/contact-directory/
