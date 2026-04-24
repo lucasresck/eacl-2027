@@ -83,9 +83,9 @@ This page provides a comprehensive list of contact emails for all EACL 2027 trac
 | **Student Research Workshop (SRW)** | [eacl2027-srw@googlegroups.com](mailto:eacl2027-srw@googlegroups.com) | SRW questions |
 | **Demonstration Track** | TBD | Demo submissions |
 | **Industry Track** | TBD | Industry track questions |
+| **Workshops** | [eacl2027.ws@gmail.com](mailto:eacl2027.ws@gmail.com) | Workshop questions |
 {% comment %}
 | **Main Conference Papers** | [eacl26-pcs@googlegroups.com](mailto:eacl26-pcs@googlegroups.com) | Main track program questions |
-| **Workshops** | [eacl2026.contact@gmail.com](mailto:eacl2026.contact@gmail.com) | Workshop questions |
 | **Tutorials** | [eacl2026.contact@gmail.com](mailto:eacl2026.contact@gmail.com) | Tutorial questions |
 {% endcomment %}
 
