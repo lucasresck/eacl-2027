@@ -14,8 +14,6 @@ Welcome to the 20th Conference of the European Chapter of the Association for Co
 
 As the flagship European conference in the field of computational linguistics, EACL brings together an international community of researchers and practitioners covering a broad spectrum of computational approaches to natural language. We look forward to gathering together to share ideas, present cutting-edge research, and forge scientific connections. 
 
-Here are some of our exciting events and latest news.
-
 ## Important Dates
 
 - **ARR submission deadline (long & short papers):**	August 3, 2026
