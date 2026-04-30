@@ -84,9 +84,9 @@ This page provides a comprehensive list of contact emails for all EACL 2027 trac
 | **Demonstration Track** | TBD | Demo submissions |
 | **Industry Track** | TBD | Industry track questions |
 | **Workshops** | [eacl2027.ws@gmail.com](mailto:eacl2027.ws@gmail.com) | Workshop questions |
+| **Tutorials** | [eacl27-tutorial-chairs@lists.ruhr-uni-bochum.de](mailto:eacl27-tutorial-chairs@lists.ruhr-uni-bochum.de) | Tutorial questions |
 {% comment %}
 | **Main Conference Papers** | [eacl26-pcs@googlegroups.com](mailto:eacl26-pcs@googlegroups.com) | Main track program questions |
-| **Tutorials** | [eacl2026.contact@gmail.com](mailto:eacl2026.contact@gmail.com) | Tutorial questions |
 {% endcomment %}
 
 {% comment %}
