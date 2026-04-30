@@ -16,6 +16,12 @@ As the flagship European conference in the field of computational linguistics, E
 
 Here are some of our exciting events and latest news.
 
+## Important Dates
+
+- **ARR submission deadline (long & short papers):**	August 3, 2026
+- **Conference:**	March 9--14, 2027
+
+_Note: All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”)._
 
 ## News
 
