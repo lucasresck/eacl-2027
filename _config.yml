@@ -112,9 +112,15 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/eaclmeeting 
+    - label: "Bluesky"
+      icon: "fas fa-fw fa-comment"
+      url: https://bsky.app/profile/did:plc:l76acjcnqvkmpd673433pkiw
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: https://www.facebook.com/eacl2021
+      url: https://www.facebook.com/aclmeeting/
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/groups/10484931/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/acl-org/eacl-2027
