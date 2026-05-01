@@ -69,7 +69,7 @@ This page provides a comprehensive list of contact emails for all EACL 2027 trac
 | Contact | Email | Purpose |
 |---------|-------|---------|
 | **D&I Chairs** | [eacl2027.deichairs@gmail.com](mailto:eacl2027.deichairs@gmail.com) | D&I general inquiries |
-| **Student Volunteers** | TBD | Student volunteer inquiries |
+| **Student Volunteers** | [eacl2027volunteers@googlegroups.com](mailto:eacl2027volunteers@googlegroups.com) | Student volunteer inquiries |
 {% comment %}
 | **Student Volunteers** | [eacl2026.volunteers@gmail.com](mailto:eacl2026.volunteers@gmail.com) | Student volunteer applications |
 {% endcomment %}
@@ -81,7 +81,7 @@ This page provides a comprehensive list of contact emails for all EACL 2027 trac
 | Track/Role | Email | Purpose |
 |------------|-------|---------|
 | **Student Research Workshop (SRW)** | [eacl2027-srw@googlegroups.com](mailto:eacl2027-srw@googlegroups.com) | SRW questions |
-| **Demonstration Track** | TBD | Demo submissions |
+| **Demonstration Track** | [eacl2027-sysdemo@googlegroups.com](mailto:eacl2027-sysdemo@googlegroups.com) | Demo submissions |
 | **Industry Track** | TBD | Industry track questions |
 | **Workshops** | [eacl2027.ws@gmail.com](mailto:eacl2027.ws@gmail.com) | Workshop questions |
 | **Tutorials** | [eacl27-tutorial-chairs@lists.ruhr-uni-bochum.de](mailto:eacl27-tutorial-chairs@lists.ruhr-uni-bochum.de) | Tutorial questions |
