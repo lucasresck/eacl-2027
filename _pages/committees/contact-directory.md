@@ -160,4 +160,4 @@ This page provides a comprehensive list of contact emails for all EACL 2026 trac
 </style>
 
 <!-- Invisible spacer to allow the browser to scroll down far enough to trigger the last TOC items -->
-<div style="height: 70vh;"></div>
+<div style="height: 35vh;"></div>
