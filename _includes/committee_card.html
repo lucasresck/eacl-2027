@@ -8,7 +8,7 @@
       {% capture photo_url %}https://wsrv.nl/?url={{ photo_encoded }}&w=192&h=192&fit=cover{% endcapture %}
     {% endif %}
   {% else %}
-    {% assign photo_url = include.photo %}
+    {% assign photo_url = include.photo | relative_url %}
   {% endif %}
   <img src="{{ photo_url }}" alt="{{ include.name }}" loading="lazy" decoding="async"
        style="width:96px;height:96px;border-radius:9999px;object-fit:cover;border:2px solid #fff;box-shadow:0 0 0 1px rgba(0,0,0,.08);" />
