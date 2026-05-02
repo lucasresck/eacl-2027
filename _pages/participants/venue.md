@@ -43,7 +43,7 @@ toc_label: "On this page"
 
 **Megaron Athens International Conference Centre (MAICC)**
 
-![Megaron Athens International Conference Centre (MAICC)](/assets/images/venue/megaron.jpg)
+![Megaron Athens International Conference Centre (MAICC)]({{ '/assets/images/venue/megaron.jpg' | relative_url }})
 
 Discover the [Megaron Athens International Conference Centre (MAICC)](https://www.megaron.gr/en/international-conference-centre/)---one of the finest and most technologically advanced conference venues in Europe. Securely nestled in the vibrant centre of Athens, Greece, this modern convention center blends cutting-edge technological infrastructure with elegant architecture and six acres of lush, landscaped gardens.
 
