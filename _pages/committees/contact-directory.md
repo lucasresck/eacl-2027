@@ -155,3 +155,6 @@ This page provides a comprehensive list of contact emails for all EACL 2027 trac
     background-color: #fafafa;
   }
 </style>
+
+<!-- Invisible spacer to allow the browser to scroll down far enough to trigger the last TOC items -->
+<div style="height: 35vh;"></div>
