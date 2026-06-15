@@ -29,6 +29,11 @@ _Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth")._
 </div>
 
 <div class="notice--info" markdown="1">
+  <h2 id="call-for-papers">Call for Papers</h2>
+  The <a href="{{ '/calls/papers/' | relative_url }}">Call for Papers</a> has been published. Check it out for important dates and submission guidelines.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="system-track">We're live!</h2>
   The EACL 2027 website is now officially live. Please check back regularly for updates concerning the conference, important dates, calls for papers, venue specifics, and more.
 </div>
