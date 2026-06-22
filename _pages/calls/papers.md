@@ -25,8 +25,8 @@ As in recent years, some of the presentations at the conference will be of paper
 | --- | --- |
 | [ARR submission deadline (long & short papers)](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/May) | Aug 3, 2026 |
 | Reviewer registration deadline for ALL authors | Aug 5, 2026 |
-| Author response period | Sept 14-19, 2026 |
-| Reviewer engagement and Author-reviewer discussion | Sept 20-24, 2026 |
+| <mark>Author response period</mark> | <mark>Sept 14-19, 2026</mark> |
+| <mark>Reviewer engagement and Author-reviewer discussion</mark> | <mark>Sept 20-24, 2026</mark> |
 | Meta review released | October 8, 2026 |
 | EACL 2027 commitment deadline | October 11, 2026 |
 | Notification of acceptance (long & short papers) | November 12, 2026 |
@@ -41,13 +41,13 @@ As in recent years, some of the presentations at the conference will be of paper
 
 ## Paper Integrity Policies at EACL
 
-**Update:** [**EACL Paper Integrity Policy**](https://2026.emnlp.org/paper-integrity-policy/)
+**Update:** [**EACL Paper Integrity Policy**]({{ '/calls/paper-integrity-policy/' | relative_url }})
 
 There is growing concern in our community regarding unethical paper submissions that overwhelm community resources, including but not limited to, [thinly sliced contributions](https://blog.icml.cc/2026/01/08/whats-new-in-icml-2026-peer-review/), submissions with hallucinated citations, and entirely AI-generated papers ([AI writing assistance](https://2023.aclweb.org/blog/ACL-2023-policy/) is permitted). EACL will take actions against such submissions, as well as submissions that violate the [ACL Policy on Publication Ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics). Such submissions may be desk rejected, and all authors involved in the submission may be ineligible to commit their paper(s) to EACL 2027 and EACL 2028. Commitment to other *CL conferences during this period might also be forbidden.
 
 ## Paper Submission Information
 
-**Dual submissions are not allowed!** Please check the [ARR Call for Papers](https://aclrollingreview.org/cfp#:~:text=Multiple%20Submission%20Policy) for details. Papers must be submitted, at latest, by the [ARR 2026](https://openreview.net/group?id=aclweb.org%2FACL%2FARR%2F2026) August cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2027 August cycle or an earlier ARR cycle) may be committed to EACL via the [commitment link](https://openreview.net/group?id=EMNLP).
+**Dual submissions are not allowed!** Please check the [ARR Call for Papers](https://aclrollingreview.org/cfp#:~:text=Multiple%20Submission%20Policy) for details. Papers must be submitted, at latest, by the [ARR 2026](https://openreview.net/group?id=aclweb.org%2FACL%2FARR%2F2026) August cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2026 August cycle or an earlier ARR cycle) may be committed to EACL via the [commitment link](https://openreview.net/group?id=eacl.org/EACL).
 
 ## Mandatory Reviewing Workload
 
@@ -134,7 +134,7 @@ This special theme is intended to complement the broad scope of EACL while highl
 
 EACL 2027 will use [ACL Rolling Review](https://aclrollingreview.org/cfp) (ARR) as a reviewing system, but final decisions will be made by the conference. Both submissions of articles for review and commitment of reviewed articles to the conference will be performed via the [Open Review](https://openreview.net/) platform. Specifically, authors will follow a two-step process:
 
-* [Authors submit articles to ARR](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/May), where submissions receive reviews and meta-reviews from ARR reviewers and action editors;
+* [Authors submit articles to ARR](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026), where submissions receive reviews and meta-reviews from ARR reviewers and action editors;
 * Authors commit their reviewed articles to a publication venue (e.g., EACL 2027), where Senior Area Chairs and Program Chairs make acceptance decisions from the ARR reviews and meta-reviews.
 
 **Authorship during commitment.** During the commitment phase, it is not allowed to modify the author list (i.e., addition/deletion of authors is not allowed). However, modification of author order is possible.
