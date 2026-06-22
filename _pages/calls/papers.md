@@ -35,7 +35,7 @@ As in recent years, some of the presentations at the conference will be of paper
 
 **Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").**
 
-**Important change:** For this cycle, author response and author-reviewer discussion are **two separate stages**. In the first (Sept 14-19, 2026), authors will take the time to respond to the reviewers; reviewers will not be engaged at this stage. In the second (Sept 20-24,  2026), reviewers and authors will engage in any necessary discussion and reviewers will be able to finalise their reviews. Further details will be provided in due time.
+<mark><b>Important change</b>: For this cycle, author response and author-reviewer discussion are <b>two separate stages</b>.</mark> In the first (Sept 14-19, 2026), authors will take the time to respond to the reviewers; reviewers will not be engaged at this stage. In the second (Sept 20-24,  2026), reviewers and authors will engage in any necessary discussion and reviewers will be able to finalise their reviews. Further details will be provided in due time.
 
 **Following the [ACL and ARR policies](https://www.aclweb.org/portal/content/report-acl-committee-anonymity-policy), there is no anonymity period requirement.**
 
