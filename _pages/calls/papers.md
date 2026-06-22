@@ -23,7 +23,7 @@ As in recent years, some of the presentations at the conference will be of paper
 
 | Event | Date |
 | --- | --- |
-| [ARR submission deadline (long & short papers)](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/May) | Aug 3, 2026 |
+| [ARR submission deadline (long & short papers)](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026) | Aug 3, 2026 |
 | Reviewer registration deadline for ALL authors | Aug 5, 2026 |
 | <mark>Author response period</mark> | <mark>Sept 14-19, 2026</mark> |
 | <mark>Reviewer engagement and Author-reviewer discussion</mark> | <mark>Sept 20-24, 2026</mark> |
@@ -31,7 +31,7 @@ As in recent years, some of the presentations at the conference will be of paper
 | EACL 2027 commitment deadline | October 11, 2026 |
 | Notification of acceptance (long & short papers) | November 12, 2026 |
 | Camera-ready papers due (long & short) | November 26, 2026 |
-| Main Conference (dates for Workshops/Tutorials TBD) | 9-14 March, 2026 |
+| Main Conference (dates for Workshops/Tutorials TBD) | 9-14 March, 2027 |
 
 **Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").**
 
