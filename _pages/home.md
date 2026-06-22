@@ -31,6 +31,8 @@ _Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth")._
 <div class="notice--info" markdown="1">
   <h2 id="keynote-speakers">Keynote speakers announced!</h2>
   We are thrilled to announce that <strong>Sara Hooker</strong>, <strong>Mor Geva</strong>, and <strong>Uri Hasson</strong> will be our keynote speakers for EACL 2027! Find out more on the <a href="{{ '/program/keynotes/' | relative_url }}">Keynote Speakers page</a>.
+  <h2 id="call-for-papers">Call for Papers</h2>
+  The <a href="{{ '/calls/papers/' | relative_url }}">Call for Papers</a> has been published. Check it out for important dates and submission guidelines.
 </div>
 
 <div class="notice--info" markdown="1">

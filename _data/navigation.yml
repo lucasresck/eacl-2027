@@ -12,7 +12,7 @@ main:
 calls:
   - title: Call for
     children:
-      - title: "Main Conference Papers"
+      - title: "Papers"
         url: /calls/papers/
 
 committee:
