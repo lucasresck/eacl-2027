@@ -15,7 +15,7 @@ toc_icon: "cog"
 
 ## Overview
 
-EACL 2027 invites the submission of long and short papers featuring substantial, original, and unpublished research on Natural Language Processing. EACL 2027 has a goal of curating a diverse technical program—in addition to traditional research results, papers may contribute negative findings, survey an area, announce the creation of a new resource, argue a position, report novel linguistic insights derived using existing computational techniques, and reproduce (or fail to reproduce) previous results. We also introduce the Special Theme *The Human in Language*, which we hope will stimulate exciting research contributions.
+EACL 2027 invites the submission of long and short papers featuring substantial, original, and unpublished research on Natural Language Processing. EACL 2027 has a goal of curating a diverse technical program. In addition to traditional research results, papers may contribute negative findings, survey an area, announce the creation of a new resource, argue a position, report novel linguistic insights derived using existing computational techniques, and reproduce (or fail to reproduce) previous results. We also introduce the Special Theme *The Human in Language*, which we hope will stimulate exciting research contributions.
 
 As in recent years, some of the presentations at the conference will be of papers accepted by the Transactions of the ACL (TACL) and the Computational Linguistics (CL) journals.
 
@@ -28,20 +28,22 @@ As in recent years, some of the presentations at the conference will be of paper
 | Author response period | Sept 14-19, 2026 |
 | Reviewer engagement and Author-reviewer discussion | Sept 20-24, 2026 |
 | Meta review released | October 8, 2026 |
-| EACL 2027 commitment deadline | TBD, 2026 |
-| Notification of acceptance (long & short papers) | TBD, 2026 |
-| Camera-ready papers due (long & short) | TBD, 2026 |
+| EACL 2027 commitment deadline | October 11, 2026 |
+| Notification of acceptance (long & short papers) | November 12, 2026 |
+| Camera-ready papers due (long & short) | November 26, 2026 |
 | Main Conference (dates for Workshops/Tutorials TBD) | 9-14 March, 2026 |
 
 **Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").**
+
+**Important change:** For this cycle, author response and author-reviewer discussion are **two separate stages**. In the first (Sept 14-19, 2026), authors will take the time to respond to the reviewers; reviewers will not be engaged at this stage. In the second (Sept 20-24,  2026), reviewers and authors will engage in any necessary discussion and reviewers will be able to finalise their reviews. Further details will be provided in due time.
 
 **Following the [ACL and ARR policies](https://www.aclweb.org/portal/content/report-acl-committee-anonymity-policy), there is no anonymity period requirement.**
 
 ## Paper Integrity Policies at EACL
 
-**Update:** [**EMNLP Paper Integrity Policy**](https://2026.emnlp.org/paper-integrity-policy/)
+**Update:** [**EACL Paper Integrity Policy**](https://2026.emnlp.org/paper-integrity-policy/)
 
-There is growing concern in our community regarding unethical paper submissions that overwhelm community resources, including but not limited to, [thinly sliced contributions](https://blog.icml.cc/2026/01/08/whats-new-in-icml-2026-peer-review/), submissions with hallucinated citations, and entirely AI-generated papers ([AI writing assistance](https://2023.aclweb.org/blog/ACL-2023-policy/) is permitted). EMNLP will take actions against such submissions, as well as submissions that violate the [ACL Policy on Publication Ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics). Such submissions may be desk rejected, and all authors involved in the submission may be ineligible to commit their paper(s) to EACL 2027 and EACL 2028. Commitment to other *CL conferences during this period might also be forbidden.
+There is growing concern in our community regarding unethical paper submissions that overwhelm community resources, including but not limited to, [thinly sliced contributions](https://blog.icml.cc/2026/01/08/whats-new-in-icml-2026-peer-review/), submissions with hallucinated citations, and entirely AI-generated papers ([AI writing assistance](https://2023.aclweb.org/blog/ACL-2023-policy/) is permitted). EACL will take actions against such submissions, as well as submissions that violate the [ACL Policy on Publication Ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics). Such submissions may be desk rejected, and all authors involved in the submission may be ineligible to commit their paper(s) to EACL 2027 and EACL 2028. Commitment to other *CL conferences during this period might also be forbidden.
 
 ## Paper Submission Information
 
@@ -49,7 +51,7 @@ There is growing concern in our community regarding unethical paper submissions 
 
 ## Mandatory Reviewing Workload
 
-All authors are expected to sign up to review, or serve as an Area Chair or Senior Area Chair, with assignments subsequently based on qualifications. After submission, all authors must complete the author registration form by Aug 3, 2026 EoD AoE. If you receive assignments, your reviews must be completed by September 7, or your meta-reviews - by October 2. In case of any emergencies, the chairs should be warned via the emergency declaration form. Exemptions to this policy are detailed in [the ARR Author Reviewer Exemption Policy Page](https://aclrollingreview.org/exemptions2025).
+All authors are expected to sign up to review, or serve as an Area Chair or Senior Area Chair, with assignments subsequently based on qualifications. After submission, all authors must complete the author registration form by Aug 5, 2026 EoD AoE. If you receive assignments, your reviews must be completed by September 7, or your meta-reviews - by October 2. In case of any emergencies, the chairs should be warned via the emergency declaration form. Exemptions to this policy are detailed in [the ARR Author Reviewer Exemption Policy Page](https://aclrollingreview.org/exemptions2025).
 
 Highly irresponsible reviewers may be ineligible to (re-)submit or commit their work during the next ARR cycle. The submitting authors should (a) make sure that all other authors are aware of this policy, and (b) check that everybody on their team(s) submits their (meta-)reviews on time and in accordance with the guidelines. You can read additional details on the definition of highly irresponsible reviewers and the corresponding ARR policy here: <https://aclrollingreview.org/incentives2025>
 
