@@ -22,6 +22,6 @@ In addition, all authors involved may be ineligible to commit their paper(s) to 
 
 ## **Unverifiable References**
 
-EACL 2027 has partnered with [GPTZero](https://gptzero.me) to detect references that do not exist in academic databases in all submitted papers. Please refer to [GPTZero's technical report](https://www.google.com/url?source=gmail&sa=E&q=https://gptzero.me/news/how-does-gptzeros-hallucination-check-detector-work-a-technical-report/) regarding the system.
+EACL 2027 has partnered with [GPTZero](https://gptzero.me) to detect references that do not exist in academic databases in all submitted papers. Please refer to [GPTZero's technical report](https://gptzero.me/news/how-does-gptzeros-hallucination-check-detector-work-a-technical-report/) regarding the system.
 
 For each submitted paper, GPTZero reference classification will be applied to all entries in the bibliography. Flagged entries will be further examined and verified by the senior program committee (AC/SAC/PC chairs) of the submission. Papers with any unverifiable reference may be desk rejected, and all authors involved in the submission may be ineligible to commit their paper(s) to EACL 2027 and EACL 2028.
