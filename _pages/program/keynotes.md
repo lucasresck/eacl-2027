@@ -76,7 +76,7 @@ Below you can find the keynote speakers for EACL 2027. The scheduled date/time, 
 
 <div class="speaker-container">
   <div class="speaker-photo">
-    <img src="/assets/images/speakers/sara_hooker.jpeg" alt="Sara Hooker" onerror="this.src='https://placehold.co/150x150?text=Sara'">
+    <img src="{{ '/assets/images/speakers/sara_hooker.jpeg' | relative_url }}" alt="Sara Hooker" onerror="this.src='https://placehold.co/150x150?text=Sara'">
   </div>
   <div class="speaker-info">
     <h3 class="speaker-name"><a href="https://www.sarahooker.me/" target="_blank">Sara Hooker</a></h3>
@@ -99,7 +99,7 @@ Below you can find the keynote speakers for EACL 2027. The scheduled date/time, 
 
 <div class="speaker-container">
   <div class="speaker-photo">
-    <img src="/assets/images/speakers/mor_geva.jpg" alt="Mor Geva" onerror="this.src='https://placehold.co/150x150?text=Mor'">
+    <img src="{{ '/assets/images/speakers/mor_geva.jpg' | relative_url }}" alt="Mor Geva" onerror="this.src='https://placehold.co/150x150?text=Mor'">
   </div>
   <div class="speaker-info">
     <h3 class="speaker-name"><a href="https://mega002.github.io/" target="_blank">Mor Geva</a></h3>
@@ -122,7 +122,7 @@ Below you can find the keynote speakers for EACL 2027. The scheduled date/time, 
 
 <div class="speaker-container">
   <div class="speaker-photo">
-    <img src="/assets/images/speakers/uri_hasson.jpg" alt="Uri Hasson" onerror="this.src='https://placehold.co/150x150?text=Uri'">
+    <img src="{{ '/assets/images/speakers/uri_hasson.jpg' | relative_url }}" alt="Uri Hasson" onerror="this.src='https://placehold.co/150x150?text=Uri'">
   </div>
   <div class="speaker-info">
     <h3 class="speaker-name"><a href="https://hassonlab.princeton.edu/" target="_blank">Uri Hasson</a></h3>
