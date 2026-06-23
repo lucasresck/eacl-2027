@@ -6,11 +6,13 @@ main:
     url: /committees/organization/
   - title: "Participant Information"
     url: /participants/venue/
+  - title: "Program"
+    url: /program/keynotes/
 
 calls:
   - title: Call for
     children:
-      - title: "Main Conference Papers"
+      - title: "Papers"
         url: /calls/papers/
 
 committee:
@@ -28,3 +30,9 @@ attending:
         url: /participants/venue/
       - title: "Contact Directory"
         url: /committees/contact-directory/
+
+program:
+  - title: Events
+    children:
+      - title: "Keynote Speakers"
+        url: /program/keynotes/

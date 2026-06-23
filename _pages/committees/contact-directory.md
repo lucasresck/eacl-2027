@@ -44,9 +44,7 @@ This page provides a comprehensive list of contact emails for all EACL 2027 trac
 |---------|-------|---------|
 | **General Conference** | [eacl2027.contact@gmail.com](mailto:eacl2027.contact@gmail.com) | All general questions |
 | **Program Chairs** | [eacl2027-pcs@googlegroups.com](mailto:eacl2027-pcs@googlegroups.com) | Paper commitment, program and post-review-related topics |
-{% comment %}
 | **ARR Editors** | [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org) | Paper submission review process |
-{% endcomment %}
 
 ---
 
