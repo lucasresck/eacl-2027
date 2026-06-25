@@ -179,4 +179,4 @@ All accepted papers must be presented at the conference to appear in the proceed
 
 For questions related to paper submission, and the review process in general, email: [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org)
 
-For questions about commitment and post review related topics, email: [eacl2027-programchairs@googlegroups.com](mailto:eacl2027-programchairs@googlegroups.com)
+For questions about commitment and post review related topics, email: [eacl2027-pcs@googlegroups.com](mailto:eacl2027-pcs@googlegroups.com)
